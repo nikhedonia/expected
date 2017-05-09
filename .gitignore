@@ -12,3 +12,8 @@ libs/expected/test/getInt.cpp
 .project
 
 libs/expected/test/cpp11/bin/*
+.buckd
+buck-out
+buckaroo
+BUCKAROO_DEPS
+.buckconfig.local
